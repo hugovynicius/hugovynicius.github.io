@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://doi.org/10.1007/978-3-031-56728-5_5",
+        "title": "Time Series Forecasting Using Parallel Randomized Fuzzy Cognitive Maps and Reservoir Computing",
+        "medium": "Emerging Trends and Applications in Artificial Intelligence",
+        "year": "2024"
+    },
+    {
+        "url": "https://doi.org/10.1109/TFUZZ.2024.3379853",
+        "title": "Multiple-Input Multiple-Output Randomized Fuzzy Cognitive Map Method for High-Dimensional Time Series Forecasting",
+        "medium": "IEEE Transactions on Fuzzy Systems",
+        "year": "2024"
+    },
+    {
+        "url": "https://doi.org/10.1016/j.energy.2023.127072",
+        "title": "Combining embeddings and fuzzy time series for high-dimensional time series forecasting in internet of energy applications",
+        "medium": "Energy, Elsevier",
+        "year": "2023"
+    },
+    {
+        "url": "https://doi.org/10.1007/s00521-022-08120-5",
+        "title": "An embedding-based non-stationary fuzzy time series method for multiple output high-dimensional multivariate time series forecasting in IoT applications",
+        "medium": "Neural Computing and Applications ",
+        "year": "2022"
+    }
+]
