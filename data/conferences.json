@@ -4,6 +4,30 @@
         "title": "A weighted multivariate fuzzy time series method for multiple output high-dimensional time series forecasting in IoT applications",
         "medium": "2024 IEEE Latin American Conference on Computational Intelligence (LA-CCI)",
         "year": "2024"
+    },
+    {
+        "url": "https://dx.doi.org/10.1109/LA-CCI48322.2021.9769792",
+        "title": "High-dimensional Multivariate Time Series Forecasting in IoT Applications using Embedding Non-stationary Fuzzy Time Series",
+        "medium": "2021 IEEE Latin American Conference on Computational Intelligence (LA-CCI)",
+        "year": "2021"
+    },
+    {
+        "url": "https://dx.doi.org/10.1109/LA-CCI48322.2021.9769792",
+        "title": "Sistema para diagnóstico da condição operativa de relés digitais de proteção de linhas de transmissão frente a eventos de curtos-circuitos no sistema de energia elétrica.",
+        "medium": "XIV Seminário Técnico de Proteção e Controle - STPC",
+        "year": "2018"
+    },
+    {
+        "url": "https://dx.doi.org/10.1109/LA-CCI48322.2021.9769792",
+        "title": "Proposed Domains for a Taxonomy for Wireless Sensor Networks Simulators",
+        "medium": "XX Iberchip",
+        "year": "2014"
+    },
+    {
+        "url": "https://dx.doi.org/10.1109/LA-CCI48322.2021.9769792",
+        "title": "Simulation Domains for Networked Embedded Systems",
+        "medium": "SForum 2012",
+        "year": "2012"
     }
-   
+
 ]
